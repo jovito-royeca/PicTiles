@@ -1,0 +1,6 @@
+framework module Pods_Pic_TilesTests {
+  umbrella header "Pods-Pic TilesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
